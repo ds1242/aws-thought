@@ -35,6 +35,7 @@ const ThoughtList = ({ thoughts, title }) => {
               </p>
             }
             
+            
           </div>
         ))}
     </div>
